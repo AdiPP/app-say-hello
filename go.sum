@@ -1,2 +1,6 @@
 github.com/AdiPP/go-say-hello v1.0.0 h1:mHGzY1WZMd8VWHiIXDfQ8f6LFfpOJItuR/jzuFVbF74=
 github.com/AdiPP/go-say-hello v1.0.0/go.mod h1:x5Uq1hfCah/Q5TCm4PVIKB29du3xJognSbuec6yK0T8=
+github.com/AdiPP/go-say-hello v1.5.0 h1:HHC1tiQCX+UHtdGOZqBzqHfeHkUH+9QJ+ZmcPSmF++A=
+github.com/AdiPP/go-say-hello v1.5.0/go.mod h1:x5Uq1hfCah/Q5TCm4PVIKB29du3xJognSbuec6yK0T8=
+github.com/AdiPP/go-say-hello/v2 v2.0.0 h1:TowYywmQr/V6/zJn90BuicwL2n17eTghLCyZIr9cuvo=
+github.com/AdiPP/go-say-hello/v2 v2.0.0/go.mod h1:Cd+wEDbVHtv2Q7GkyEPAuatFOhC2xMF3aN8QvYWZLFE=
